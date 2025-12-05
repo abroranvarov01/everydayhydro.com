@@ -9,7 +9,29 @@ const slugs = [
 	"dumbbell-water-bottle",
 	"epica-glass-bottles",
 	"locckmy-temperature-bottle",
-	"echo-flask-hydrogen"
+	"echo-flask-hydrogen",
+	"owala-freesip-black-cherry",
+	"owala-freesip-sway",
+	"stanley-iceflow",
+	"owala-freesip-twist",
+	"owala-disney-princess-cinderella",
+	"zak-minecraft-sage",
+	"hydro-flask-straw-lid",
+	"hydro-flask-travel-tumbler",
+	"nalgene-sustain-tritan",
+	"raymylo-40oz-paracord",
+	"owala-silicone-boot",
+	"stanley-quencher-h2o",
+	"hydrojug-traveler-40oz",
+	"owala-freesip-32oz",
+	"owala-smoothsip-slider",
+	"stanley-protour-flip",
+	"yeti-rambler-20oz",
+	"liquid-iv-hydration",
+	"lmnt-electrolytes",
+	"celsius-energy",
+	"premier-protein-shake",
+	"boka-ela-mint-toothpaste"
 ]
 
 export function middleware(req: NextRequest) {
